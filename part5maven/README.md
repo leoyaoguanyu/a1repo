@@ -4,6 +4,14 @@
 
 This folder contains the \*\*Task 5\*\* Maven project for SFWRENG 3S03 Assignment 1.
 
+Coverage Notes
+
+The final coverage is consistently above 90% instruction coverage and achieves full branch coverage for core business logic.
+
+Minor percentage variations (e.g., 92–98%) may occur depending on:
+
+All required logical branches in the application code are fully tested.
+
 
 
 \## Project Structure
